@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Breaking the Habit",
+  "base_artist": "Linkin Park",
+  "createdAt": "2026-02-15T16:30:34.645096Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Breaking The Habit",
+      "artist": "LINKIN PARK",
+      "has_synced": true,
+      "path": "select/01_Breaking_The_Habit_LINKIN_PARK.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Breaking The Habit",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/02_Breaking_The_Habit_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Breaking The Habit (Live At Soundcheck)",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/03_Breaking_The_Habit_(Live_At_Soundcheck)_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Breaking The Habit - Live At Milton Keynes",
+      "artist": "LINKIN PARK",
+      "has_synced": true,
+      "path": "select/04_Breaking_The_Habit_-_Live_At_Milton_Keynes_LINKIN_PARK.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Breaking The Habit [Live]",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/05_Breaking_The_Habit_[Live]_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Breaking The Habit - Live from Hamburg, 2011",
+      "artist": "LINKIN PARK",
+      "has_synced": true,
+      "path": "select/06_Breaking_The_Habit_-_Live_from_Hamburg,_2011_LINKIN_PARK.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Breaking the Habit (Single Edit)",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/07_Breaking_the_Habit_(Single_Edit)_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Breaking the Habit",
+      "artist": "Skarlett Riot",
+      "has_synced": false,
+      "path": "select/08_Breaking_the_Habit_Skarlett_Riot.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Breaking the Habit (Live from La Caja Mágica, Madrid, Spain, 11/7/2010)",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/09_Breaking_the_Habit_(Live_from_La_Caja_Mágica,_Madrid,_Spain,_11_7_2010)_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Breaking The Habit - Live In Madrid",
+      "artist": "LINKIN PARK",
+      "has_synced": true,
+      "path": "select/10_Breaking_The_Habit_-_Live_In_Madrid_LINKIN_PARK.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Breaking The Habit",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/11_Breaking_The_Habit_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Breaking the Habit (Original Mike 2002 Demo)",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/12_Breaking_the_Habit_(Original_Mike_2002_Demo)_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Breaking the Habit",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/13_Breaking_the_Habit_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Breaking the Habit - Live in Hamburg, 2011",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/14_Breaking_the_Habit_-_Live_in_Hamburg,_2011_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Breaking the Habit (Single Edit)",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/15_Breaking_the_Habit_(Single_Edit)_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Breaking The Habit",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/16_Breaking_The_Habit_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Breaking the Habit",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/17_Breaking_the_Habit_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Breaking the Habit (Live Rock Am Ring 2004)",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/18_Breaking_the_Habit_(Live_Rock_Am_Ring_2004)_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Breaking the Habit - Original Mike 2002 Demo",
+      "artist": "LINKIN PARK",
+      "has_synced": true,
+      "path": "select/19_Breaking_the_Habit_-_Original_Mike_2002_Demo_LINKIN_PARK.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Breaking The Habit",
+      "artist": "Linkin Park",
+      "has_synced": false,
+      "path": "select/pl_01_Breaking_The_Habit_Linkin_Park.txt"
+    }
+  ]
+}
